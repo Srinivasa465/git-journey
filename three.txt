@@ -2,3 +2,6 @@ Git editid
 git reedited
 gittt
 fffffff
+
+
+merge status
