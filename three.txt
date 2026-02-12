@@ -1,5 +1,3 @@
 Git editid
 git reedited
 gittt
-
-Another feature
